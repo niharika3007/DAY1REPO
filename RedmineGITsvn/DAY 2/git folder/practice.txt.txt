@@ -1,0 +1,7 @@
+repository url: https://github.com/niharika3007/practice-repo.git
+
+20 commits
+stage 
+stash
+conflicts resolved
+drop stash

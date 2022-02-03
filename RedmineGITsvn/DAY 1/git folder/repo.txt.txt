@@ -1,0 +1,6 @@
+repository url: https://github.com/niharika3007/practice-repo.git
+
+1. create repository
+2.clone of repository in local system
+3.make changes->commit to local-->push on remote
+4.delete the .git folder from local repository
