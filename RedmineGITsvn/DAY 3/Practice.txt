@@ -1,0 +1,4 @@
+created new branch->development
+changes on new branch and main branch
+manage branch and merge both branch.
+resolved the conflicts.
