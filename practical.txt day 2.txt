@@ -1,5 +1,0 @@
-repository : https://github.com/niharika3007/DAY1REPO.git
-
-12 commits
-
-development: https://github.com/niharika3007/DAY1REPO/tree/development
